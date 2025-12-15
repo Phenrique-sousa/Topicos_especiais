@@ -1,0 +1,1 @@
+#### Fonte de dados: [Microdados do Censo da Educação Superior 2024](https://download.inep.gov.br/microdados/microdados_censo_da_educacao_superior_2024.zip) 
